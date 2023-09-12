@@ -1,7 +1,7 @@
 package database
 
 import (
-	"github.com/Galbeyte1/go-user-man-ser/internal/user"
+	user "github.com/Galbeyte1/go-user-man-ser/internal/user"
 	"github.com/jinzhu/gorm"
 )
 
